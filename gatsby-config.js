@@ -7,7 +7,7 @@ module.exports = {
       'Sunil is a open-source contributer and who love to build websites for Small and Medium Businesses in India. He is specializing in building (and occasionally designing) exceptional digital experiences on web.',
     siteUrl: 'https://sunil.pages.dev', // No trailing slash allowed!
     image: '/og.png', // Path to your image you placed in the 'static' folder
-    twitterUsername: '',
+    twitterUsername: 'none',
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
