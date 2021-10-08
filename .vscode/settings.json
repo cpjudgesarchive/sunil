@@ -1,0 +1,9 @@
+{
+    "search.exclude": {
+        "": true,
+        "node": true
+    },
+    "files.exclude": {
+        "git": true
+    }
+}
