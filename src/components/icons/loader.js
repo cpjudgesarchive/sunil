@@ -48,7 +48,6 @@ const IconLoader = () => (
       />
     </g>
   </svg>
-
 );
 
 export default IconLoader;
