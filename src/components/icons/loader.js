@@ -35,7 +35,7 @@ const IconLoader = () => (
         strokeWidth="5"
         strokeLinecap="round"
         strokeLinejoin="round"
-        d="M40 1L1 23V68L40 91L79 69V24L40 1Z" fill="black" stroke="black" />
+        d="M40 1L1 23V68L40 91L79 69V24L40 1Z"/>
     </g>
   </svg>
 );
