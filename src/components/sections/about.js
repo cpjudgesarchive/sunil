@@ -150,7 +150,7 @@ const About = () => {
               <a href="https://scout.camd.northeastern.edu/">a student-led design studio</a>. My
               main focus these days is building accessible, inclusive products and digital
               experiences at <a href="https://upstatement.com/">Upstatement</a>  */}
-              for a variety of
+              and with a variety of
               clients.
             </p>
 
@@ -170,7 +170,7 @@ const About = () => {
           <div className="wrapper">
             <StaticImage
               className="img"
-              src="../../images/me.jpg"
+              src="../../images/me.svg"
               width={500}
               quality={95}
               formats={['AUTO', 'WEBP', 'AVIF']}
