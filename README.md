@@ -8,7 +8,7 @@
   The fourth iteration of <a href="https://sunil.pages.dev" target="_blank">sunil.pages.dev</a> built with <a href="https://www.gatsbyjs.org/" target="_blank">Gatsby</a> and hosted with <a href="https://www.netlify.com/" target="_blank">Netlify</a>
 </p>
 
-##**`whoami`**
+##`whoami`
 <!-- ![demo](https://raw.githubusercontent.com/bchiang7/v4/main/src/images/demo.png) -->
 
 ## 🚨 Forking this repo (please read!)
