@@ -64,10 +64,10 @@ const Hero = () => {
   const four = (
     <>
       <p>
-        I’m a Student @ MIT. Currently, I’m focused on building future at{' '}
-        <a href="https://mit.edu/" target="_blank" rel="noreferrer">
+        I’m aspiring to be a student @ MIT, for which i'll try hard. Currently, Currently focused working on my passion.{' '}
+        {/* <a href="https://mit.edu/" target="_blank" rel="noreferrer">
           MIT
-        </a>
+        </a> */}
         .
       </p>
     </>
