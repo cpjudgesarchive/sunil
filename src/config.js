@@ -4,23 +4,27 @@ module.exports = {
   socialMedia: [
     {
       name: 'GitHub',
-      url: 'https://github.com/cpjudgesarchive',
+      url: 'https://github.com/qunil',
     },
     {
-      name: 'Instagram',
-      url: 'https://www.instagram.com/anonlinus',
+      name: 'Stackoverflow',
+      url: 'https://stackoverflow.com/users/17010759/sunil',
     },
     {
       name: 'Twitter',
-      url: 'https://twitter.com/',
+      url: 'https://twitter.com/qunil_linus/',
     },
     {
       name: 'Linkedin',
-      url: 'https://www.linkedin.com/in/',
+      url: 'https://www.linkedin.com/in/sunil-shukla-92890a1b5/',
+    },
+    {
+      name: 'Dribbble',
+      url: 'https://dribbble.com/',
     },
     {
       name: 'Codepen',
-      url: 'https://codepen.io/',
+      url: 'https://codepen.com/',
     },
   ],
 
